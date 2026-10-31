@@ -46,8 +46,7 @@ Step 9: Display the not eligible students.
 Step 10: Stop the program.
 
 ## 3. Flowchart(mermaid id)
- flowchart TD
-``` mermarid
+``` mermaid
 
 flowchart TD
     A([Start]) --> B[/Enter number of students/]
@@ -70,6 +69,8 @@ flowchart TD
     M --> N[/Display Merit List and Rejected List/]
     N --> O([Stop])
     ```
+
+
 
 ## 5. Sample Input
 
