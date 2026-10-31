@@ -1,4 +1,3 @@
-# University Scholarship Allocation System
 
 ## 1. Problem Statement
 
@@ -46,7 +45,7 @@ Step 9: Display the not eligible students.
 
 Step 10: Stop the program.
 
-## 3. Flowchart
+## 3. Flowchart(mermaid id)
  flowchart TD
 ``` mermarid
 
