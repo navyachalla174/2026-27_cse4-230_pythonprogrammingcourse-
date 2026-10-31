@@ -47,7 +47,8 @@ Step 9: Display the not eligible students.
 Step 10: Stop the program.
 
 ## 3. Flowchart
-```mermarid
+ flowchart TD
+``` mermarid
 
 flowchart TD
     A([Start]) --> B[/Enter number of students/]
